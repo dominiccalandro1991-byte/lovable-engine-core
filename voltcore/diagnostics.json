@@ -1,0 +1,29 @@
+{
+  "repo": "dominiccalandro1991-byte/lovable-engine-core",
+  "incomplete": false,
+  "missing_dependencies": [
+    "lockfile"
+  ],
+  "required_build_specs": [
+    "commit package-lock.json or pnpm-lock.yaml",
+    "voltcore-heartbeat workflow"
+  ],
+  "file_count": 15,
+  "root_entries": [
+    ".gitignore",
+    ".prettierignore",
+    ".prettierrc",
+    "AGENTS.md",
+    "README.md",
+    "bun.lock",
+    "bunfig.toml",
+    "components.json",
+    "eslint.config.js",
+    "package.json",
+    "public",
+    "src",
+    "supabase",
+    "tsconfig.json",
+    "vite.config.ts"
+  ]
+}
